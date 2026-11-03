@@ -1,6 +1,6 @@
 {
-  "version": "0.1.226",
+  "version": "0.1.227",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.226/AcrylicDimFormTestSetup.exe",
-  "notes": "保存した校正の詳細数値（測長・台形・場所別実測/角度/座標・レンズ・ホモグラフィ）の完全表示対応、カメラ電源オフバッジの横幅調整"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.227/AcrylicDimFormTestSetup.exe",
+  "notes": "音声案内を男性の声（Microsoft Ichiro）に変更"
 }
