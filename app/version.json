@@ -1,6 +1,6 @@
 {
-  "version": "0.1.225",
+  "version": "0.1.226",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.225/AcrylicDimSetup.exe",
-  "notes": "GitHubパブリック更新リポジトリからの自動アップデート配信に対応、使い方・事務手順マニュアル刷新"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.226/AcrylicDimSetup.exe",
+  "notes": "保存した校正の詳細数値（測長・台形・場所別実測/角度/座標・レンズ・ホモグラフィ）の完全表示対応、カメラ電源オフバッジの横幅調整"
 }
