@@ -1,6 +1,6 @@
 {
-  "version": "0.1.228",
+  "version": "0.1.229",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.228/AcrylicDimFormTestSetup.exe",
-  "notes": "測定・設定モード切替ボタンの選択状態表示改善、測定範囲（青い点線）内部の半透明マスク塗りを廃止し映像をクリアに表示"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.229/AcrylicDimFormTestSetup.exe",
+  "notes": "測定後に板を動かした際の2D図面・測定結果自動クリア、QR切断時のカメラ省電力カウントダウン停止バグ修正"
 }
