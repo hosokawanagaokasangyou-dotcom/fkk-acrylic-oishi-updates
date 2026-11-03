@@ -1,6 +1,6 @@
 {
-  "version": "0.1.229",
+  "version": "0.1.230",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.229/AcrylicDimSetup.exe",
-  "notes": "測定後に板を動かした際の2D図面・測定結果自動クリア、QR切断時のカメラ省電力カウントダウン停止バグ修正"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.230/AcrylicDimSetup.exe",
+  "notes": "標準サンプル公差を±1mmに変更、操作を隠す押下時および無操作5分経過時の測定モード自動復帰"
 }
