@@ -1,6 +1,6 @@
 {
-  "version": "0.1.230",
+  "version": "0.1.231",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.230/AcrylicDimFormTestSetup.exe",
-  "notes": "標準サンプル公差を±1mmに変更、操作を隠す押下時および無操作5分経過時の測定モード自動復帰"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.231/AcrylicDimFormTestSetup.exe",
+  "notes": "ミニグラフ倍率設定（既定200%）、静止画測定時の音声省略・標準サンプル未測定許容、測定履歴ダイアログからの保存画像静止画測定、左下詳細表の横幅・備考列拡張、受注管理ダイアログの最大化表示修正"
 }
