@@ -1,6 +1,6 @@
 {
-  "version": "0.1.227",
+  "version": "0.1.228",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.227/AcrylicDimSetup.exe",
-  "notes": "音声案内を男性の声（Microsoft Ichiro）に変更"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.228/AcrylicDimSetup.exe",
+  "notes": "測定・設定モード切替ボタンの選択状態表示改善、測定範囲（青い点線）内部の半透明マスク塗りを廃止し映像をクリアに表示"
 }
