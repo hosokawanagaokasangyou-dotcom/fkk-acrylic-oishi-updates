@@ -1,0 +1,6 @@
+{
+  "version": "0.1.225",
+  "installer": "AcrylicDimFormTestSetup.exe",
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.225/AcrylicDimFormTestSetup.exe",
+  "notes": "GitHubパブリック更新リポジトリからの自動アップデート配信に対応、使い方・事務手順マニュアル刷新"
+}
