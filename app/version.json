@@ -1,6 +1,6 @@
 {
-  "version": "0.1.232",
+  "version": "0.1.233",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.232/AcrylicDimSetup.exe",
-  "notes": "開発環境で実機同期した校正データを用いた静止画測定時にカメラ名不一致でレンズ未完了と判定される不具合を修正、静止画測定時の物理カメラ復帰・静止待ちスキップ"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.233/AcrylicDimSetup.exe",
+  "notes": "バージョンアップ時に共有フォルダを参照せずGitHubのみを見るように変更、GitHub info/refs によるコミットSHA直指定でCDNキャッシュ遅延を解消、更新確認間隔短縮(2分)"
 }
