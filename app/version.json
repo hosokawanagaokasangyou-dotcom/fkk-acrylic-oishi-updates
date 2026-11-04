@@ -1,6 +1,6 @@
 {
-  "version": "0.1.233",
+  "version": "0.1.234",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.233/AcrylicDimSetup.exe",
-  "notes": "バージョンアップ時に共有フォルダを参照せずGitHubのみを見るように変更、GitHub info/refs によるコミットSHA直指定でCDNキャッシュ遅延を解消、更新確認間隔短縮(2分)"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.234/AcrylicDimSetup.exe",
+  "notes": "測定履歴ダイアログへのメモ追加・編集・検索機能追加、およびダイアログ表示時・1分間隔の自動ポーリング更新対応（「最新に更新」ボタン維持）"
 }
