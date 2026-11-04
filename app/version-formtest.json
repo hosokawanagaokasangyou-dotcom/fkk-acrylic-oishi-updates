@@ -1,6 +1,6 @@
 {
-  "version": "0.1.235",
+  "version": "0.1.236",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.235/AcrylicDimFormTestSetup.exe",
-  "notes": "一時測定（個票ID未入力での「撮影して測定」・設定画面の「試験測定」）も自動で temporary/ フォルダへ保存"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.236/AcrylicDimFormTestSetup.exe",
+  "notes": "一時測定の temporary/ 自動保存をライブカメラ測定のみに限定（静止画測定時は保存しない）"
 }
