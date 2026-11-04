@@ -1,6 +1,6 @@
 {
-  "version": "0.1.234",
+  "version": "0.1.235",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.234/AcrylicDimSetup.exe",
-  "notes": "測定履歴ダイアログへのメモ追加・編集・検索機能追加、およびダイアログ表示時・1分間隔の自動ポーリング更新対応（「最新に更新」ボタン維持）"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.235/AcrylicDimSetup.exe",
+  "notes": "一時測定（個票ID未入力での「撮影して測定」・設定画面の「試験測定」）も自動で temporary/ フォルダへ保存"
 }
