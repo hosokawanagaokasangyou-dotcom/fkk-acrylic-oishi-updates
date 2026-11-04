@@ -1,6 +1,6 @@
 {
-  "version": "0.1.236",
+  "version": "0.1.237",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.236/AcrylicDimFormTestSetup.exe",
-  "notes": "一時測定の temporary/ 自動保存をライブカメラ測定のみに限定（静止画測定時は保存しない）"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.237/AcrylicDimFormTestSetup.exe",
+  "notes": "測定履歴の共有同期・標準サンプル画像紐付け強化、測定履歴オープン時・再測定時のスピナー＆結果バナー表示、5箇所台形・測長校正の対称性改善および共有校正自動取込"
 }
