@@ -1,6 +1,6 @@
 {
-  "version": "0.1.239",
+  "version": "0.1.240",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.239/AcrylicDimSetup.exe",
-  "notes": "測定履歴からの静止画再測定時に左表の履歴値を保持し、右プレビューにBefore（左）・After（右）の結果画像を並べて比較表示するように改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.240/AcrylicDimSetup.exe",
+  "notes": "測定履歴の再測定Before/After全画面比較表示・閉じるボタン追加・表形式への改善・自動ポーリング時のスピナー非表示・メインUIへの結果表示抑制"
 }
