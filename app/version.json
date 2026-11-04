@@ -1,6 +1,6 @@
 {
-  "version": "0.1.231",
+  "version": "0.1.232",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.231/AcrylicDimSetup.exe",
-  "notes": "ミニグラフ倍率設定（既定200%）、静止画測定時の音声省略・標準サンプル未測定許容、測定履歴ダイアログからの保存画像静止画測定、左下詳細表の横幅・備考列拡張、受注管理ダイアログの最大化表示修正"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.232/AcrylicDimSetup.exe",
+  "notes": "開発環境で実機同期した校正データを用いた静止画測定時にカメラ名不一致でレンズ未完了と判定される不具合を修正、静止画測定時の物理カメラ復帰・静止待ちスキップ"
 }
