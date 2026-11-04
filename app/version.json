@@ -1,6 +1,6 @@
 {
-  "version": "0.1.237",
+  "version": "0.1.238",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.237/AcrylicDimSetup.exe",
-  "notes": "測定履歴の共有同期・標準サンプル画像紐付け強化、測定履歴オープン時・再測定時のスピナー＆結果バナー表示、5箇所台形・測長校正の対称性改善および共有校正自動取込"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.238/AcrylicDimSetup.exe",
+  "notes": "測定履歴からの静止画再測定時に呼び寸法未設定の行で発生していた lookup_spec NameError を修正"
 }
