@@ -1,6 +1,6 @@
 {
-  "version": "0.1.243",
+  "version": "0.1.244",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.243/AcrylicDimSetup.exe",
-  "notes": "個票ID欄の半角英数字・記号強制、データ収集モード4辺入力欄の未入力時キーボード即時入力・レスポンス改善、データ収集モードでのカメラ自動切断抑止・UI右側見切れ修正"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.244/AcrylicDimSetup.exe",
+  "notes": "データ収集モードを閉じる際の省電力タイマー再開エラー（STAGE2_DELAY_S未定義）修正、データ収集モードで「操作を隠す」押下時にオペレーターモードへ自動遷移する改善"
 }
