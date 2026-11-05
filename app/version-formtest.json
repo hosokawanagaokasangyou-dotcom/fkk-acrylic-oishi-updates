@@ -1,6 +1,6 @@
 {
-  "version": "0.1.240",
+  "version": "0.1.241",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.240/AcrylicDimFormTestSetup.exe",
-  "notes": "測定履歴の再測定Before/After全画面比較表示・閉じるボタン追加・表形式への改善・自動ポーリング時のスピナー非表示・メインUIへの結果表示抑制"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.241/AcrylicDimFormTestSetup.exe",
+  "notes": "チェスボード校正ロジック修正（自動撮影の3D法線類似判定・歪みモデル選択・YUY2撮影整合・外れ値除外）およびレンズ/台形校正UI・UX改善"
 }
