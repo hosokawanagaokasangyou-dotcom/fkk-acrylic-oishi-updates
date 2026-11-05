@@ -1,6 +1,6 @@
 {
-  "version": "0.1.241",
+  "version": "0.1.242",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.241/AcrylicDimSetup.exe",
-  "notes": "チェスボード校正ロジック修正（自動撮影の3D法線類似判定・歪みモデル選択・YUY2撮影整合・外れ値除外）およびレンズ/台形校正UI・UX改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.242/AcrylicDimSetup.exe",
+  "notes": "長尺板のX/Y個別線形補正、4辺・板厚入力のデータ収集ウィザードモード追加、およびUIからの線形補正傾き変更機能"
 }
