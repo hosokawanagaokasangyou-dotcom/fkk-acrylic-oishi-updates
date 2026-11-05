@@ -1,6 +1,6 @@
 {
-  "version": "0.1.248",
+  "version": "0.1.249",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.248/AcrylicDimSetup.exe",
-  "notes": "全モジュールのバグ修正・堅牢化（測定精度100%維持）、スプラッシュウィンドウの次世代光学計測HUDデザイン刷新、およびUI/UXの向上"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.249/AcrylicDimSetup.exe",
+  "notes": "長尺板の局所的な保護シート剥がれ（三角剥がれ・片面シート剥がれ）の検出精度向上、印字ロゴ・白シールによる誤検知防止、およびパディング救済・感度変更時の座標系整合を改善"
 }
