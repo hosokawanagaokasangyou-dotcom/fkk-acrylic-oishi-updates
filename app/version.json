@@ -1,6 +1,6 @@
 {
-  "version": "0.1.247",
+  "version": "0.1.248",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.247/AcrylicDimSetup.exe",
-  "notes": "データ収集モードの「推奨オフセット%を反映」ボタンと設定画面の「寸法オフセット(%)」欄を廃止し、過去設定に残っていた寸法オフセット値を0.0%へ自動リセットして二重補正を防止"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.248/AcrylicDimSetup.exe",
+  "notes": "全モジュールのバグ修正・堅牢化（測定精度100%維持）、スプラッシュウィンドウの次世代光学計測HUDデザイン刷新、およびUI/UXの向上"
 }
