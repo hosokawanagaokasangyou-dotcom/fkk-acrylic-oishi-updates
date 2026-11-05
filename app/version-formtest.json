@@ -1,6 +1,6 @@
 {
-  "version": "0.1.242",
+  "version": "0.1.243",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.242/AcrylicDimFormTestSetup.exe",
-  "notes": "長尺板のX/Y個別線形補正、4辺・板厚入力のデータ収集ウィザードモード追加、およびUIからの線形補正傾き変更機能"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.243/AcrylicDimFormTestSetup.exe",
+  "notes": "個票ID欄の半角英数字・記号強制、データ収集モード4辺入力欄の未入力時キーボード即時入力・レスポンス改善、データ収集モードでのカメラ自動切断抑止・UI右側見切れ修正"
 }
