@@ -1,6 +1,6 @@
 {
-  "version": "0.1.250",
+  "version": "0.1.251",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.250/AcrylicDimFormTestSetup.exe",
-  "notes": "測長に関する2次補正係数（X・Y方向）の補正曲線グラフ、指定長シミュレータ、および長さに対する補正値・補正後寸法一覧を表示するダイアログUIを追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.251/AcrylicDimFormTestSetup.exe",
+  "notes": "各モードの右側UIの幅を境界ドラッグで変更可能にし、幅に応じて文字・ボタン・入力欄が連動して拡縮する機能およびUI別の幅記憶機能を追加"
 }
