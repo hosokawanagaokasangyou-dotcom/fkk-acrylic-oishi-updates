@@ -1,6 +1,6 @@
 {
-  "version": "0.1.253",
+  "version": "0.1.254",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.253/AcrylicDimFormTestSetup.exe",
-  "notes": "2次補正グラフ凡例の集約・STEP3表示整理・UI幅変更時のテーブル文字見切れ改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.254/AcrylicDimFormTestSetup.exe",
+  "notes": "データ収集モードの履歴一覧テーブルを画像ウィンドウと右側UIの間にセパレート縦長配置"
 }
