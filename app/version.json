@@ -1,6 +1,6 @@
 {
-  "version": "0.1.249",
+  "version": "0.1.250",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.249/AcrylicDimSetup.exe",
-  "notes": "長尺板の局所的な保護シート剥がれ（三角剥がれ・片面シート剥がれ）の検出精度向上、印字ロゴ・白シールによる誤検知防止、およびパディング救済・感度変更時の座標系整合を改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.250/AcrylicDimSetup.exe",
+  "notes": "測長に関する2次補正係数（X・Y方向）の補正曲線グラフ、指定長シミュレータ、および長さに対する補正値・補正後寸法一覧を表示するダイアログUIを追加"
 }
