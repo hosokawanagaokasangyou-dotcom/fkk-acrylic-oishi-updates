@@ -1,6 +1,6 @@
 {
-  "version": "0.1.252",
+  "version": "0.1.253",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.252/AcrylicDimSetup.exe",
-  "notes": "測定履歴のUI幅ドラッグ変更・文字/ボタン連動拡縮・UI幅記憶に対応"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.253/AcrylicDimSetup.exe",
+  "notes": "2次補正グラフ凡例の集約・STEP3表示整理・UI幅変更時のテーブル文字見切れ改善"
 }
