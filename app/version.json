@@ -1,6 +1,6 @@
 {
-  "version": "0.1.259",
+  "version": "0.1.260",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.259/AcrylicDimSetup.exe",
-  "notes": "測定速度・パフォーマンス10工程計測の共有フォルダ自動蓄積、および「その他」ウィンドウ（測定速度閲覧タブ・MSAタブ）を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.260/AcrylicDimSetup.exe",
+  "notes": "2次補正係数グラフUIの作業台エリア選択をドロップダウンから3×3マス目図クリック選択へ刷新"
 }
