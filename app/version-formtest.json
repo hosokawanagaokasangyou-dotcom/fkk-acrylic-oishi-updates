@@ -1,6 +1,6 @@
 {
-  "version": "0.1.257",
+  "version": "0.1.258",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.257/AcrylicDimFormTestSetup.exe",
-  "notes": "作業台3×3マトリックスエリア（奥・中央・手前×左・中央・右）別の2次補正選択・双線形ブレンド補正およびエリア別2次補正グラフ（9エリア補正マップ・エリア別色分け曲線・散布点）を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.258/AcrylicDimFormTestSetup.exe",
+  "notes": "IATF 16949 コアツール MSA（AIAG第4版 Gage R&R）解析ダイアログ・6種診断チャートおよびPDFレポート出力機能を追加"
 }
