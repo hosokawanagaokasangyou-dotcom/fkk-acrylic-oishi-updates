@@ -1,6 +1,6 @@
 {
-  "version": "0.1.254",
+  "version": "0.1.255",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.254/AcrylicDimSetup.exe",
-  "notes": "データ収集モードの履歴一覧テーブルを画像ウィンドウと右側UIの間にセパレート縦長配置"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.255/AcrylicDimSetup.exe",
+  "notes": "データ収集モードの履歴一覧で行を選択・クリックした際に左ウィンドウへ測定結果画面を表示"
 }
