@@ -1,6 +1,6 @@
 {
-  "version": "0.1.258",
+  "version": "0.1.259",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.258/AcrylicDimFormTestSetup.exe",
-  "notes": "IATF 16949 コアツール MSA（AIAG第4版 Gage R&R）解析ダイアログ・6種診断チャートおよびPDFレポート出力機能を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.259/AcrylicDimFormTestSetup.exe",
+  "notes": "測定速度・パフォーマンス10工程計測の共有フォルダ自動蓄積、および「その他」ウィンドウ（測定速度閲覧タブ・MSAタブ）を追加"
 }
