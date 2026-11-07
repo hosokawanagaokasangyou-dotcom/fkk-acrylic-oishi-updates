@@ -1,6 +1,6 @@
 {
-  "version": "0.1.255",
+  "version": "0.1.256",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.255/AcrylicDimSetup.exe",
-  "notes": "データ収集モードの履歴一覧で行を選択・クリックした際に左ウィンドウへ測定結果画面を表示"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.256/AcrylicDimSetup.exe",
+  "notes": "データ収集モードの2次補正プロファイルを全域2次多項式＋マルチスケールアンカー補正へ刷新し、補正後差を目標0.5mm以下に改善"
 }
