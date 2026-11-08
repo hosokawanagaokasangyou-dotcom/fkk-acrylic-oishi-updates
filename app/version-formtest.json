@@ -1,6 +1,6 @@
 {
-  "version": "0.1.261",
+  "version": "0.1.262",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.261/AcrylicDimFormTestSetup.exe",
-  "notes": "MSA指定サイズ編集・初期値リセットUIおよび任意サンプルでのMSA実行対応、設定タブペイン化、マニュアルPDF更新"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.262/AcrylicDimFormTestSetup.exe",
+  "notes": "撮影の連写ロジック・UI完全削除、生産状況・受注管理・出荷指示・検査成績書のタブおよびUI/UX視認性向上、各種マニュアルPDF同期更新"
 }
