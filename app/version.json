@@ -1,6 +1,6 @@
 {
-  "version": "0.1.262",
+  "version": "0.1.263",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.262/AcrylicDimSetup.exe",
-  "notes": "撮影の連写ロジック・UI完全削除、生産状況・受注管理・出荷指示・検査成績書のタブおよびUI/UX視認性向上、各種マニュアルPDF同期更新"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.263/AcrylicDimSetup.exe",
+  "notes": "MSA測定モードの手順ガイドUI改善（①〜④ステップフロー表示・やること案内明示・旧配置表記除去）、各グラフのクリック最大化表示対応"
 }
