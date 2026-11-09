@@ -1,6 +1,6 @@
 {
-  "version": "0.1.264",
+  "version": "0.1.265",
   "installer": "AcrylicDimFormTestSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.264/AcrylicDimFormTestSetup.exe",
-  "notes": "MSA測定モードの幅記憶時に起動できなくなる不具合（MsaMeasureWizard.set_scale未定義エラー）の修正および起動時保護の追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.265/AcrylicDimFormTestSetup.exe",
+  "notes": "標準サンプル測定履歴ウィンドウへの「閉じる」ボタン追加および全ウィンドウの「閉じる」ボタン右下配置統一"
 }
