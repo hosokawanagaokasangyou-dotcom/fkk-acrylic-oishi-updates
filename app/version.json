@@ -1,6 +1,6 @@
 {
-  "version": "0.1.269",
+  "version": "0.1.270",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.269/AcrylicDimSetup.exe",
-  "notes": "アンカーポイントとのズレ量表示をカメラウィンドウ右上に固定し、各測定履歴へのアンカーズレ量記録と統計量（標準サンプル測定履歴・測定履歴）への集計を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.270/AcrylicDimSetup.exe",
+  "notes": "実機実行中のハングアップ防止（4KカメラYUY2撮影・露出制御のスレッド排他、アンカー表示・ライブ描画負荷低減、測定履歴キャッシュ移行と並列非ブロッキング化、カメラ電源制御の非同期化）"
 }
