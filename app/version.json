@@ -1,6 +1,6 @@
 {
-  "version": "0.1.268",
+  "version": "0.1.269",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.268/AcrylicDimSetup.exe",
-  "notes": "アンカーポイントとのズレ量警告閾値の設定変更機能（0〜50px・警告なし対応）と、測定時のアンカーズレ量表示（結果パネル・測定詳細表・映像上ピル表示）を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.269/AcrylicDimSetup.exe",
+  "notes": "アンカーポイントとのズレ量表示をカメラウィンドウ右上に固定し、各測定履歴へのアンカーズレ量記録と統計量（標準サンプル測定履歴・測定履歴）への集計を追加"
 }
