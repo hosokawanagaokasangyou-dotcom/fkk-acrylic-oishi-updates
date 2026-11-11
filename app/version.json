@@ -1,6 +1,6 @@
 {
-  "version": "0.1.266",
+  "version": "0.1.267",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.266/AcrylicDimSetup.exe",
-  "notes": "本番カメラQR測定OK時の自動保存・台帳記帳・完了移行、露出アシスト・PnPカメラ電源復帰、6D補正・標準サンプル平面要確認判定・検査成績書角度・測定NG出荷取消など安定性と精度の改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.267/AcrylicDimSetup.exe",
+  "notes": "勾配ミニグラフの外枠（二層ベゼル）・補助グリッド・波形グラデーション塗り追加による暗背景での視認性改善"
 }
