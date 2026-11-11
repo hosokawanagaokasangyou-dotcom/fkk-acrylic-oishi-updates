@@ -1,6 +1,6 @@
 {
-  "version": "0.1.270",
+  "version": "0.1.271",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.270/AcrylicDimSetup.exe",
-  "notes": "実機実行中のハングアップ防止（4KカメラYUY2撮影・露出制御のスレッド排他、アンカー表示・ライブ描画負荷低減、測定履歴キャッシュ移行と並列非ブロッキング化、カメラ電源制御の非同期化）"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.271/AcrylicDimSetup.exe",
+  "notes": "4Kライブ中の「操作を隠す」時ハング防止（カメラ接続監視の非同期化・DirectShow STA化・OLEドロップ切替退避・共有注文照会の非ブロッキング化・4K魚眼補正キャッシュ排他と再試行中の応答維持）"
 }
