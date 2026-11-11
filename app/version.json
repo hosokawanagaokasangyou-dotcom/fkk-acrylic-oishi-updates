@@ -1,6 +1,6 @@
 {
-  "version": "0.1.267",
+  "version": "0.1.268",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.267/AcrylicDimSetup.exe",
-  "notes": "勾配ミニグラフの外枠（二層ベゼル）・補助グリッド・波形グラデーション塗り追加による暗背景での視認性改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.268/AcrylicDimSetup.exe",
+  "notes": "アンカーポイントとのズレ量警告閾値の設定変更機能（0〜50px・警告なし対応）と、測定時のアンカーズレ量表示（結果パネル・測定詳細表・映像上ピル表示）を追加"
 }
