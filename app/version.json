@@ -1,6 +1,6 @@
 {
-  "version": "0.1.265",
+  "version": "0.1.266",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.265/AcrylicDimSetup.exe",
-  "notes": "標準サンプル測定履歴ウィンドウへの「閉じる」ボタン追加および全ウィンドウの「閉じる」ボタン右下配置統一"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.266/AcrylicDimSetup.exe",
+  "notes": "本番カメラQR測定OK時の自動保存・台帳記帳・完了移行、露出アシスト・PnPカメラ電源復帰、6D補正・標準サンプル平面要確認判定・検査成績書角度・測定NG出荷取消など安定性と精度の改善"
 }
