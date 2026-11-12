@@ -1,6 +1,6 @@
 {
-  "version": "0.1.273",
+  "version": "0.1.274",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.273/AcrylicDimSetup.exe",
-  "notes": "アンカー未検出・位置ズレで測定を中止した際、カメラ中央の大型警告カード・アンカー枠の未検出ラベル・右パネル見出しと赤警告ピルで原因と確認事項を分かりやすく表示するよう改善"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.274/AcrylicDimSetup.exe",
+  "notes": "アンカーポイントのテンプレートマッチング一致度（%）表示を追加し、認識閾値を設定画面から変更可能に改善（既定値 96.0%）"
 }
