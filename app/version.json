@@ -1,6 +1,6 @@
 {
-  "version": "0.1.271",
+  "version": "0.1.272",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.271/AcrylicDimSetup.exe",
-  "notes": "4Kライブ中の「操作を隠す」時ハング防止（カメラ接続監視の非同期化・DirectShow STA化・OLEドロップ切替退避・共有注文照会の非ブロッキング化・4K魚眼補正キャッシュ排他と再試行中の応答維持）"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.272/AcrylicDimSetup.exe",
+  "notes": "アンカー検出のテンプレートマッチング閾値を90%（0.9）へ引き上げ、アンカー未検出時は警告設定に関わらず全測定経路で測定を実行せず停止するよう修正"
 }
