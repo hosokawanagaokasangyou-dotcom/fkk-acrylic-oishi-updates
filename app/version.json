@@ -1,6 +1,6 @@
 {
-  "version": "0.1.274",
+  "version": "0.1.275",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.274/AcrylicDimSetup.exe",
-  "notes": "アンカーポイントのテンプレートマッチング一致度（%）表示を追加し、認識閾値を設定画面から変更可能に改善（既定値 96.0%）"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.275/AcrylicDimSetup.exe",
+  "notes": "標準サンプル測定履歴・測定履歴の表および統計量にアンカーポイントのテンプレートマッチング一致度（%）表示を追加"
 }
