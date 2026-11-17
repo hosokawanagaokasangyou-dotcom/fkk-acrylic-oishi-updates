@@ -1,6 +1,6 @@
 {
-  "version": "0.1.276",
+  "version": "0.1.277",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.276/AcrylicDimSetup.exe",
-  "notes": "標準サンプル測定履歴・測定履歴から測定時に紐づいている校正データ（台形・測長・レンズ歪み補正・校正写真）を閲覧できる機能を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.277/AcrylicDimSetup.exe",
+  "notes": "標準サンプルA(1820×910×3t)・B(910×600×3t)・C(300×240×3t)の追加および専用個票QRラベル（SAMPLE-A/B/C）の個別・3枚一括発行機能を追加"
 }
