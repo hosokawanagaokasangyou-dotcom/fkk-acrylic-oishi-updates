@@ -1,6 +1,6 @@
 {
-  "version": "0.1.278",
+  "version": "0.1.279",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.278/AcrylicDimSetup.exe",
-  "notes": "自動測定時はアンカーポイントのテンプレートマッチング一致度が最も高くなる露出で撮影するよう改善、アンカー未検出・白飛び等の問題発生時の露出・フィルタ自動調整を強化"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.279/AcrylicDimSetup.exe",
+  "notes": "標準サンプル(SAMPLE/A/B/C)の公差設定機能(既定±0.8mm)・オフライン時の設定画面切替安定化・QR自動測定の結果保持と測定後10秒間の入力ロック・別ウィンドウ復帰時のQRリーダー応答性とアクティブウィンドウ制御を改善"
 }
