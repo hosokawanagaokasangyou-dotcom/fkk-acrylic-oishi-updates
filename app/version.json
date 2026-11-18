@@ -1,6 +1,6 @@
 {
-  "version": "0.1.277",
+  "version": "0.1.278",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.277/AcrylicDimSetup.exe",
-  "notes": "標準サンプルA(1820×910×3t)・B(910×600×3t)・C(300×240×3t)の追加および専用個票QRラベル（SAMPLE-A/B/C）の個別・3枚一括発行機能を追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.278/AcrylicDimSetup.exe",
+  "notes": "自動測定時はアンカーポイントのテンプレートマッチング一致度が最も高くなる露出で撮影するよう改善、アンカー未検出・白飛び等の問題発生時の露出・フィルタ自動調整を強化"
 }
