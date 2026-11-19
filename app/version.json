@@ -1,6 +1,6 @@
 {
-  "version": "0.1.285",
+  "version": "0.1.286",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.285/AcrylicDimSetup.exe",
-  "notes": "自動更新時のインストーラ起動処理（コンソール無しcmd.exeでのパイプ除去）を修正、試験測定の板厚入力ダイアログ（前回値保持）追加、標準サンプル測定履歴の右クリック4桁パスワード削除機能追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.286/AcrylicDimSetup.exe",
+  "notes": "カメラ省電力をPC画面操作・測定の無操作10分移行に変更（開発モード中も動作・マウス移動でのリセット抑制）、QRリーダー設定バーコード一覧に120分スリープを追加"
 }
