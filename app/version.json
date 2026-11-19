@@ -1,6 +1,6 @@
 {
-  "version": "0.1.284",
+  "version": "0.1.285",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.284/AcrylicDimSetup.exe",
-  "notes": "設定の試験測定時に板厚入力ダイアログ（前回入力値の保持・自動反映）を表示する機能追加、および標準サンプル測定履歴の各行右クリックメニューへの4桁パスワード付き削除機能の追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.285/AcrylicDimSetup.exe",
+  "notes": "自動更新時のインストーラ起動処理（コンソール無しcmd.exeでのパイプ除去）を修正、試験測定の板厚入力ダイアログ（前回値保持）追加、標準サンプル測定履歴の右クリック4桁パスワード削除機能追加"
 }
