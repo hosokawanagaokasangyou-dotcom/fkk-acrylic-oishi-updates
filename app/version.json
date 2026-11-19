@@ -1,6 +1,6 @@
 {
-  "version": "0.1.283",
+  "version": "0.1.284",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.283/AcrylicDimSetup.exe",
-  "notes": "共有フォルダアクセス・バックグラウンドスレッドに起因するサイレント終了（QThread競合・非GUIスレッド破棄・切断ネットワークドライブ固まり・0バイト画像読込等）の包括的防止対策"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.284/AcrylicDimSetup.exe",
+  "notes": "設定の試験測定時に板厚入力ダイアログ（前回入力値の保持・自動反映）を表示する機能追加、および標準サンプル測定履歴の各行右クリックメニューへの4桁パスワード付き削除機能の追加"
 }
