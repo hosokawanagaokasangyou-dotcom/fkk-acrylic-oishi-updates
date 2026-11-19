@@ -1,6 +1,6 @@
 {
-  "version": "0.1.282",
+  "version": "0.1.283",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.282/AcrylicDimSetup.exe",
-  "notes": "標準サンプル測定履歴の画像プレビュー・生画像切替・現状設定での静止画再測定・Before/After比較機能追加とUI全体のRefine、校正データ閲覧時のスピナー追加、呼び寸法未入力時の「不定」表示対応"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.283/AcrylicDimSetup.exe",
+  "notes": "共有フォルダアクセス・バックグラウンドスレッドに起因するサイレント終了（QThread競合・非GUIスレッド破棄・切断ネットワークドライブ固まり・0バイト画像読込等）の包括的防止対策"
 }
