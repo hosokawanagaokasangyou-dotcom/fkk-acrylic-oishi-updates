@@ -1,6 +1,6 @@
 {
-  "version": "0.1.286",
+  "version": "0.1.287",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.286/AcrylicDimSetup.exe",
-  "notes": "カメラ省電力をPC画面操作・測定の無操作10分移行に変更（開発モード中も動作・マウス移動でのリセット抑制）、QRリーダー設定バーコード一覧に120分スリープを追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.287/AcrylicDimSetup.exe",
+  "notes": "データ収集モードの履歴一覧に年月日＋時刻の2段表示・日付区切り・誤差色分けを追加し、狭幅見切れ解消・2次補正グラフ改善・ライブ復帰ボタン・モード離脱時プレビュー解除・共有保護を反映。あわせてレイアウト再計算の無限ループ（CPU高負荷）を修正"
 }
