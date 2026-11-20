@@ -1,6 +1,6 @@
 {
-  "version": "0.1.288",
+  "version": "0.1.289",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.288/AcrylicDimSetup.exe",
-  "notes": "再試行（Retry）の過度な発火を抑制するため、対抗辺差閾値（0.25%かつ1.0mm超）・白飛び（10%）・辺ピーク比（4.0倍・魚眼湾曲エッジ対応）・小面積反射抑制（1.0%）およびデータ収集モードのNG単独再試行を緩和し、速度ログへ再試行理由を記録。あわせて開発モードON時の速度ログ共有送信・同期防止ガードを追加"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.289/AcrylicDimSetup.exe",
+  "notes": "加工指図書兼依頼書右上の受注Noバーコード（Code 39・8桁）を現場PCのリーダーで読み取ると、該当注文の確認画面（「個票を発行」）が開き現場でQR個票ラベルを出力できる機能を追加。発行済み受注の再読取時は再発行確認を表示し、受注管理検索も8桁バーコードに対応。事務手順・使い方・オペレーター作業マニュアルを更新"
 }
