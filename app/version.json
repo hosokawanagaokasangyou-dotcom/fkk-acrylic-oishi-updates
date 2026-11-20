@@ -1,6 +1,6 @@
 {
-  "version": "0.1.287",
+  "version": "0.1.288",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.287/AcrylicDimSetup.exe",
-  "notes": "データ収集モードの履歴一覧に年月日＋時刻の2段表示・日付区切り・誤差色分けを追加し、狭幅見切れ解消・2次補正グラフ改善・ライブ復帰ボタン・モード離脱時プレビュー解除・共有保護を反映。あわせてレイアウト再計算の無限ループ（CPU高負荷）を修正"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.288/AcrylicDimSetup.exe",
+  "notes": "再試行（Retry）の過度な発火を抑制するため、対抗辺差閾値（0.25%かつ1.0mm超）・白飛び（10%）・辺ピーク比（4.0倍・魚眼湾曲エッジ対応）・小面積反射抑制（1.0%）およびデータ収集モードのNG単独再試行を緩和し、速度ログへ再試行理由を記録。あわせて開発モードON時の速度ログ共有送信・同期防止ガードを追加"
 }
