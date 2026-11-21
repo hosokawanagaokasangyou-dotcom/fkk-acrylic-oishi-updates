@@ -1,6 +1,6 @@
 {
-  "version": "0.1.289",
+  "version": "0.1.290",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.289/AcrylicDimSetup.exe",
-  "notes": "加工指図書兼依頼書右上の受注Noバーコード（Code 39・8桁）を現場PCのリーダーで読み取ると、該当注文の確認画面（「個票を発行」）が開き現場でQR個票ラベルを出力できる機能を追加。発行済み受注の再読取時は再発行確認を表示し、受注管理検索も8桁バーコードに対応。事務手順・使い方・オペレーター作業マニュアルを更新"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.290/AcrylicDimSetup.exe",
+  "notes": "アプリ全体の安定性・品質を全面改善：開発PCパラメータの実機・共有への非反映保護強化、Qtスレッド安全性・メモリリーク・無限リトライ・Lightテーマ視認性・ショートカット誤発動の修正、SMB共有ロック・一時通信エラー時の履歴/記録消失防止、検査成績書の欠損値表記の正確化、測定・校正・カメラ・印刷の堅牢化および起動・描画の高速化。"
 }
