@@ -1,6 +1,6 @@
 {
-  "version": "0.1.291",
+  "version": "0.1.292",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.291/AcrylicDimSetup.exe",
-  "notes": "通常測定の呼び縦・呼び横・板厚・公差の入力文字を太字・拡大・高コントラスト化（Qtスピンボックスのフォント継承不具合も解消）。データ収集モードで推奨2次係数反映中のスピナー表示と、データ追加・履歴削除時の推奨2次係数反映ボタンのオレンジ明滅強調を追加。ui.py・MSA/Gage R&R・データ収集・測定履歴の内部モジュール分割および全テスト追従を完了。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.292/AcrylicDimSetup.exe",
+  "notes": "受注管理の一覧（受注・加工中・測定NG・完了・再発行）および右クリック詳細・ツールチップに、依頼書をフォルダへ入れた日時を表示。直接フォルダへ置いたPDFや既存データでもファイル作成日時を補完表示し、登録・段階移動時も投入日時・投入者を引き継ぐよう改善（リスト右クリック時の不具合も修正）。"
 }
