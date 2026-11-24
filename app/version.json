@@ -1,6 +1,6 @@
 {
-  "version": "0.1.292",
+  "version": "0.1.293",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.292/AcrylicDimSetup.exe",
-  "notes": "受注管理の一覧（受注・加工中・測定NG・完了・再発行）および右クリック詳細・ツールチップに、依頼書をフォルダへ入れた日時を表示。直接フォルダへ置いたPDFや既存データでもファイル作成日時を補完表示し、登録・段階移動時も投入日時・投入者を引き継ぐよう改善（リスト右クリック時の不具合も修正）。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.293/AcrylicDimSetup.exe",
+  "notes": "生産状況の「生産中の注文」「完了した注文」一覧に「入れた日時」列を追加し、右側の注文詳細にも注文書を入れた日時・入れた人（ツールチップで秒付き詳細）を表示。既存データでもPDF/JSONの作成日時で補完表示するよう改善。"
 }
