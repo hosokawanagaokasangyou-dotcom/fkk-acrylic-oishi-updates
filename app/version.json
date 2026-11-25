@@ -1,6 +1,6 @@
 {
-  "version": "0.1.293",
+  "version": "0.1.294",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.293/AcrylicDimSetup.exe",
-  "notes": "生産状況の「生産中の注文」「完了した注文」一覧に「入れた日時」列を追加し、右側の注文詳細にも注文書を入れた日時・入れた人（ツールチップで秒付き詳細）を表示。既存データでもPDF/JSONの作成日時で補完表示するよう改善。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.294/AcrylicDimSetup.exe",
+  "notes": "標準サンプルQR読取時に測定が始まらない不具合を修正（QR入力中の遅延selectAllによる文字欠損・FKK先頭400ms切れ/先頭欠け・2重Enterによる静止待ちキャンセル・静止前のアンカー誤判定を防止、手動SAMPLE＋測定ボタンにも対応）。"
 }
