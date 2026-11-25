@@ -1,6 +1,6 @@
 {
-  "version": "0.1.294",
+  "version": "0.1.295",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.294/AcrylicDimSetup.exe",
-  "notes": "標準サンプルQR読取時に測定が始まらない不具合を修正（QR入力中の遅延selectAllによる文字欠損・FKK先頭400ms切れ/先頭欠け・2重Enterによる静止待ちキャンセル・静止前のアンカー誤判定を防止、手動SAMPLE＋測定ボタンにも対応）。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.295/AcrylicDimSetup.exe",
+  "notes": "レンズ歪み補正UI/UXを全面改善（6×4の各マスに未撮影・左右/上下傾き不足・残枚数などの不足内容をリアルタイム表示、推奨目安を20→36枚・自動撮影上限を80枚既定＆選択可能へ拡張、ライブ姿勢・静止バー・サムネホバー連動・結果確認用の直線ガイドを追加）。"
 }
