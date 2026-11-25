@@ -1,6 +1,6 @@
 {
-  "version": "0.1.295",
+  "version": "0.1.296",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.295/AcrylicDimSetup.exe",
-  "notes": "レンズ歪み補正UI/UXを全面改善（6×4の各マスに未撮影・左右/上下傾き不足・残枚数などの不足内容をリアルタイム表示、推奨目安を20→36枚・自動撮影上限を80枚既定＆選択可能へ拡張、ライブ姿勢・静止バー・サムネホバー連動・結果確認用の直線ガイドを追加）。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.296/AcrylicDimSetup.exe",
+  "notes": "検査成績書PDFの付帯文書で校正済（レンズ歪み・台形補正済）画像を使用するよう修正（新規測定時に校正済画像を併存保存し、過去測定データも共有の校正結果から厳密一致する補正を自動適用。画像上の四隅角度・平行度・各辺長も校正済み実寸基準へ統一）。"
 }
