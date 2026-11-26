@@ -1,6 +1,6 @@
 {
-  "version": "0.1.296",
+  "version": "0.1.297",
   "installer": "AcrylicDimSetup.exe",
-  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.296/AcrylicDimSetup.exe",
-  "notes": "検査成績書PDFの付帯文書で校正済（レンズ歪み・台形補正済）画像を使用するよう修正（新規測定時に校正済画像を併存保存し、過去測定データも共有の校正結果から厳密一致する補正を自動適用。画像上の四隅角度・平行度・各辺長も校正済み実寸基準へ統一）。"
+  "installer_url": "https://github.com/hosokawanagaokasangyou-dotcom/fkk-acrylic-oishi-updates/releases/download/v0.1.297/AcrylicDimSetup.exe",
+  "notes": "標準サンプル測定履歴の一覧から複数行を選択して同時削除できる機能を追加（Ctrl/Shift+クリック・ドラッグ・複数選択モード・全選択／解除に対応し、削除ボタン・右クリックメニュー・Deleteキーから4桁パスワード確認後に共有正本・ローカル控えを一括削除）。"
 }
